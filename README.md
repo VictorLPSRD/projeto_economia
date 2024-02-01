@@ -5,7 +5,7 @@ O Economia+ é um aplicativo para desktop e mobile destinado a auxiliar o usuár
 seus gastos, calcular o IPVA e oferece a promessade novas funcionalidades  
 a serem adicionadas posteriormente.
 
-![Screenshot da Página](screenshot.png)
+![Screenshot da Página](telap.png)
 
 ## Funcionalidades
 
